@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'IM Fell English';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/hamptongaynatural/Desktop/WEBSITE%202022/fonts/IM Fell English/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'IM Fell English';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/hamptongaynatural/Desktop/WEBSITE%202022/fonts/IM Fell English/italic.ttf') format('truetype');
+}
