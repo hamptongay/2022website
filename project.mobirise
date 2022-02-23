@@ -94,9 +94,6 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "github",
-    "gitHubName": "hamptongay",
-    "gitHubPath": "",
     "mbrsiteDomain": "yloldvr0et"
   },
   "pages": {
